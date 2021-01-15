@@ -1,0 +1,4 @@
+{
+  "apiEndpoint": "http://jsonplaceholder.typicode.com/posts",
+  "apiUrl": "http://fakerestapi.azurewebsites.net/api"
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "IPV Poison",
+    "affected_scope": "SIEM1",
+    "threat_type": "Malware",
+    "description": "this is a description for malware this is a description for malware this is a description for malware",
+    "vulnerabilities": [
+      "CVE-2017-615",
+      "CVE-2019-11734",
+      "CVE-2019-1334",
+      "CVE-2017-12615",
+      "CVE-2019-11734",
+      "CVE-2017-12615",
+      "CVE-2019-11734",
+      "CVE-2017-12615",
+      "CVE-2019-11734"
+    ],
+    "attack_patterns": [
+      "CAPEC-474",
+      "CAPEC-476",
+      "CAPEC-470"
+    ],
+    "occurrence_time": "2019-08-05T08:19:03.338293Z",
+    "threat_score": 10,
+    "tlp": "white"
+  },
+  { "id": 2,
+    "title": "IPV Poison",
+    "affected_scope": "SIEM2",
+    "threat_type": "Malware",
+    "description": "this is a description for malware",
+    "vulnerabilities": [
+      "CVE-2017-12615",
+      "CVE-2019-11734",
+      "CVE-2019-1334"
+    ],
+    "attack_patterns": [
+      "CAPEC-474",
+      "CAPEC-476",
+      "CAPEC-470"
+    ],
+    "occurrence_time": "2019-08-05T08:19:03.338293Z",
+    "threat_score": 70,
+    "tlp": "green"
+  },
+  { "id": 3,
+    "title": "IPV Poison",
+    "affected_scope": "SIEM3",
+    "threat_type": "Malware",
+    "description": "this is a description for malware",
+    "vulnerabilities": [
+      "CVE-2017-12615",
+      "CVE-2019-11734",
+      "CVE-2019-1334"
+    ],
+    "attack_patterns": [
+      "CAPEC-474",
+      "CAPEC-476",
+      "CAPEC-470"
+    ],
+    "occurrence_time": "2019-08-05T08:19:03.338293Z",
+    "threat_score": 35,
+    "tlp": "yellow"
+  },
+  { "id": 4,
+    "title": "IPV Poison",
+    "affected_scope": "SIEM1",
+    "threat_type": "Malware",
+    "description": "this is a description for malware",
+    "vulnerabilities": [
+      "CVE-2017-12615",
+      "CVE-2019-11734",
+      "CVE-2019-1334"
+    ],
+    "attack_patterns": [
+      "CAPEC-474",
+      "CAPEC-476",
+      "CAPEC-470"
+    ],
+    "occurrence_time": "2019-08-05T08:19:03.338293Z",
+    "threat_score": 90,
+    "tlp": "red"
+  },
+  { "id": 5,
+    "title": "IPV Poison",
+    "affected_scope": "SIEM2",
+    "threat_type": "Malware",
+    "description": "this is a description for malware",
+    "vulnerabilities": [
+      "CVE-2017-12615",
+      "CVE-2019-11734",
+      "CVE-2019-1334"
+    ],
+    "attack_patterns": [
+      "CAPEC-474",
+      "CAPEC-476",
+      "CAPEC-470"
+    ],
+    "occurrence_time": "2019-08-05T08:19:03.338293Z",
+    "threat_score": 58,
+    "tlp": "yellow"
+  },
+  { "id": 6,
+    "title": "IPV Poison",
+    "affected_scope": "SIEM5",
+    "threat_type": "Malware",
+    "description": "this is a description for malware",
+    "vulnerabilities": [
+      "CVE-2017-12615",
+      "CVE-2019-11734",
+      "CVE-2019-1334"
+    ],
+    "attack_patterns": [
+      "CAPEC-474",
+      "CAPEC-476",
+      "CAPEC-470"
+    ],
+    "occurrence_time": "2019-08-05T08:19:03.338293Z",
+    "threat_score": 90,
+    "tlp": "white"
+  }
+]

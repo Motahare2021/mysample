@@ -1,0 +1,34 @@
+@import '~antd/dist/antd.css';
+
+.ant-table-thead > tr > th {
+    /*background: #141425;*/
+    background: #0E78FF;
+    color: #FFFFFF;
+   font-size-adjust: 0.6;
+}
+/*.ant-table-tbody > tr > th {*/
+/*    background: #1d1d2e;*/
+/*    color: #FFFFFF;*/
+/*    font-size: 14px;*/
+/*}*/
+.ant-table{
+    color : #FFF;
+}
+
+/*//:global(.ant-btn-primary) {*/
+/*//    background-color: var(--secondary-color);*/
+/*//    &:hover {*/
+/*//        background-color: var(--secondary-hover-color) !important;*/
+/*//        border-color: var(--secondary-hover-color) !important;*/
+/*//    }*/
+/*//}*/
+/*//*/
+/*//.ant-table-expanded-row {*/
+/*//    .ant-table-thead > tr > th {*/
+/*//        background: #f1f1f1;*/
+/*//    }*/
+/*//*/
+/*//    .ant-table-tbody > tr > td {*/
+/*//        background: #fff;*/
+/*//    }*/
+/*//}*/

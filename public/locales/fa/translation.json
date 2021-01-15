@@ -1,0 +1,62 @@
+{
+  "dashboard": {
+    "title": "سامانه اشتراک گذاری هشدارهای امنیتی",
+    "userProfile": "حساب کاربری",
+    "userSetting": "تنظیمات",
+    "userLogout": "خروج",
+    "sa": "وضعیت سایبری",
+    "radarTitle": "تاثیر تهدیدات بر منافع",
+    "threatTableTitle": "فهرست تهدیدها",
+    "threatstableTitleInThreatsPage": "فهرست تهدیدها",
+    "threatsOccurencePercent": "درصد رخداد انواع تهدید",
+    "threatsCount": "تعداد کل تهدیدها",
+    "metaAlertTableTitle": "فهرست فراهشدارهای دریافتی",
+    "metaAlertCount": "تعداد فراهشدارهای دریافتی"
+  },
+  "pestel": {
+    "p": "سیاسی",
+    "en": "محیطی",
+    "s": "اجتماعی",
+    "t": "فناوری",
+    "ec": "اقتصادی",
+    "l": "حقوقی"
+  },
+  "threat": {
+    "title": "عنوان",
+    "affected_scope":"قلمرو",
+    "threat_type":"نوع",
+    "description":"توصیف" ,
+    "vulnerabilities": "آسیب پذیری ها",
+    "attack_patterns":"الگوهای حمله",
+    "occurrence_time": " زمان وقوع",
+    "threat_score":"امتیاز",
+    "threat": "تهدید",
+    "new": "اضافه کردن تهدید جدید",
+    "tlp": "حساسیت انتشار"
+  },
+  "sidebar":{
+    "organizationName": "وزارت دفاع و پشتیبانی نیروهای مسلح",
+    "home": "صفحه اصلی",
+    "metaAlert": "فراهشدارها",
+    "situationalAwareness": "آگاهی وضعیتی",
+    "threats": "تهدیدها",
+    "users": "کاربران",
+    "setting": "تنظیمات",
+    "language": "زبان",
+    "chosenLanguage1": "فارسی",
+    "chosenLanguage2": "انگلیسی",
+    "report": "گزارش گیری"
+  },
+  "tlp": {
+    "white": "انتشار بدون محدودیت",
+    "green": "عدم انتشار در وب",
+    "yellow":"انتشار محدود ",
+    "red": "عدم انتشار"
+  },
+  "siem": {
+    "radarTitle": "تاثیر تهدیدهای قلمرو بر منافع",
+    "gaugeTitle": "وضعیت سایبری قلمرو",
+    "tableTitle": "فهرست تهدیدهای قلمرو"
+
+  }
+}

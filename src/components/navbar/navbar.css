@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'IRBadr';
+  src: url('../../assets/fonts/W_yekan.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bg {
+  background-color: #001529;
+}
+.nav {
+  /*padding: 5px;*/
+  margin: 0px 0px 0px 0px;
+  display: block;
+  color: #fff;
+  font: 1.3em IRBadr;
+}
+
+.menu{
+  font: 1.3em IRBadr;
+}

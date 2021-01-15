@@ -1,0 +1,17 @@
+{
+  "malware": 25,
+  "web_based_attacks": 15,
+  "web_application_attacks": 10,
+  "phishing": 1,
+  "dos": 16,
+  "spam": 3,
+  "botnets": 1,
+  "data_breaches": 4,
+  "insider_threat": 5,
+  "physical_manipulation": 6,
+  "information_leakage": 8,
+  "identity_theft": 8,
+  "cryptojacking": 8,
+  "ransomware": 2,
+  "cyber_espionage": 4
+}

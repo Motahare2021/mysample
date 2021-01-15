@@ -1,0 +1,63 @@
+{
+  "dashboard": {
+    "title": "Information Sharing and Analysis Center",
+    "userProfile": "profile",
+    "userSetting": "setting",
+    "userLogout": "logout",
+    "sa": "Situational awareness",
+    "radarTitle": "The effect of threats on interests",
+    "threatTableTitle": "The list of effective threats to SA calculation",
+    "threatstableTitleInThreatsPage": "The list of received threats",
+    "threatsOccurencePercent": "Threats occurrence",
+    "threatsCount": "Threats Count",
+    "metaAlertTableTitle": "The list of received MetaAlerts",
+    "metaAlertCount": "MetaAlert Counts"
+  },
+  "pestel": {
+    "p": "policy",
+    "en": "environment",
+    "s": "social",
+    "t": "technology",
+    "ec": "economy",
+    "l": "legal"
+  },
+  "threat": {
+    "title": "Title",
+    "affected_scope":"Scope",
+    "threat_type":"Type",
+    "description":"Description" ,
+    "vulnerabilities": "Vulnerability",
+    "attack_patterns":"AttackPattern",
+    "occurrence_time": " Time Of Occurrence",
+    "threat_score":"Score",
+    "threat": "Threat",
+    "new": "New Threat",
+    "tlp": "TLP"
+
+  },
+  "sidebar":{
+    "organizationName": "Ministry of Defence and Armed Forces Logistics",
+    "home": "Main",
+    "metaAlert": "MetaAlert",
+    "situationalAwareness": "SituationalAwareness",
+    "threats": "Threats",
+    "users": "Users",
+    "setting": "Setting",
+    "language": "Language",
+    "chosenLanguage1": "Persian",
+    "chosenLanguage2": "English",
+    "report": "Reports"
+  },
+  "tlp": {
+    "white": "unlimited publish",
+    "green": "don't publish in the web",
+    "yellow":"limited publish ",
+    "red": "don't publish"
+  },
+  "siem": {
+    "radarTitle": "The effect of Siem's threats on interests",
+    "gaugeTitle": "Siem SA",
+    "tableTitle": "The list of Siem's threats"
+
+  }
+}

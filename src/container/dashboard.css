@@ -1,0 +1,39 @@
+@import '~antd/dist/antd.css';
+
+@font-face {
+    font-family: 'IRBadr';
+    src: url('../assets/fonts/iran_sans_mobile.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+.ant-menu{
+  /*background: #1e1e2f;*/
+  /*  font: 1.2em IRBadr;*/
+    font-family: IRBadr;
+    font-size-adjust: 0.6;
+    /*font-size: 16px ;*/
+}
+.cardStyle{
+    border-radius: 10px;
+    background:#1d1d2e !important;
+    color: white ;
+    box-shadow: 0 2px 8px 0 rgba(255,255,255,0.5);
+    margin: 10px !important;
+    font-family: IRBadr;
+    /*font-size-adjust: 0.55;*/
+}
+
+.tlpStyle{
+    text-align:center
+}
+
+.page-content{
+    padding:10px
+}
+.ant-card-body{
+    padding: 10px;
+}
+.ant-card-head-title{
+    color:white;
+    text-align: center;
+}

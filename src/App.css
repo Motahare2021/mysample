@@ -1,0 +1,40 @@
+@import '~antd/dist/antd.css';
+
+.ant-layout{
+  background: #1e1e2f;
+}
+.ant-layout-header{
+  padding: 0px 20px;
+}
+.cardStyle{
+  margin-top: 50px;
+  margin-right: 20px;
+  border-radius: 10px;
+  /*background:#1e1e2f;*/
+  background:#FFF;
+  box-shadow: 0 2px 8px 0 rgba(255,255,255,0.5)
+}
+
+/*.ant-divider-horizontal{*/
+/*  margin: 10px 0*/
+/*}*/
+
+.ant-layout-header {
+  border-radius: 10px ;
+  margin:10px;
+  box-shadow: 0px 2px 4px 0px rgba(255,255,255,0.5);
+  background: #001529;
+  /*background: #1e1e2f;*/
+}
+
+.ant-layout-content {
+  border-radius: 10px ;
+  margin:10px;
+  box-shadow: 0px 2px 4px 0px rgba(255,255,255,0.5);
+  background: #001529;
+  minHeight: 280
+}
+
+
+
+
